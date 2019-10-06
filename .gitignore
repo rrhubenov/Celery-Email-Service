@@ -4,3 +4,6 @@
 
 #Virtual Environment for the project
 venv
+
+
+src/__pycache__
